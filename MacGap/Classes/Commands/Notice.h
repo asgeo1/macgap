@@ -10,11 +10,11 @@
 
 #define APP_NOTICE_NOTIFICATION @"Notice"
 
-@interface Notice : NSObject <NSUserNotificationCenterDelegate> {
+/*@interface Notice : NSObject <NSUserNotificationCenterDelegate> {
     
 }
 
 - (void) notify:(NSDictionary*)message;
 
-@end
+@end*/
 

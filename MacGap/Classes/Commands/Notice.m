@@ -7,7 +7,7 @@
 //
 
 #import "Notice.h"
-
+/*
 @implementation Notice
 
 - (void) notify:(NSDictionary *)message {
@@ -47,4 +47,4 @@
 	return YES;
 }
 
-@end
+@end*/
