@@ -240,7 +240,7 @@
 		FAE451B114BA79C600190544 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = Twitter;
 			};
 			buildConfigurationList = FAE451B414BA79C600190544 /* Build configuration list for PBXProject "MacGap" */;
@@ -386,6 +386,7 @@
 		FAE451D914BA79C600190544 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/MacGap\"",
@@ -403,6 +404,7 @@
 		FAE451DA14BA79C600190544 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/MacGap\"",
